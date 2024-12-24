@@ -14,3 +14,5 @@ and a README.md.
 
 
 The Cleaned Data is Available in the assignment 2 file.
+Data Observations and Recommendations:-
+Dinner Items Spaghetti and Grilled Chicken are Highly Rated and are on Demand,and Customers often like to have Dinner meals at this Restaurant so more dinner meals can be added to the menu and Should Focus more on Dinner to increase the Revenue.
