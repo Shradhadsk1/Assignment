@@ -11,3 +11,6 @@ Additionally, you will create visualizations to showcase key insights and write 
 summarizing your findings and business recommendations.
 The final project should be organized in a GitHub repository with all relevant files
 and a README.md.
+
+
+The Cleaned Data is Available in the assignment 2 file.
