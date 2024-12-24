@@ -1,0 +1,17 @@
+User ID,Age,Location,Favorite Meal,Total Orders,Session ID,Dish Name,Meal Type,Session Start,Session End,Duration (mins),Session Rating,Order Status,Amount (USD),Rating
+U001,28,New York,Dinner,12,S001,Spaghetti,Dinner,2024-12-01 19:00,2024-12-01 19:30,30,4.5,Completed,15,5
+U002,35,Los Angeles,Lunch,8,S002,Caesar Salad,Lunch,2024-12-01 12:00,2024-12-01 12:20,20,4,Completed,10,4
+U003,42,Chicago,Breakfast,15,S003,Grilled Chicken,Dinner,2024-12-02 19:30,2024-12-02 20:10,40,4.8,Canceled,12.5,N/A
+U001,28,New York,Dinner,12,S004,Pancakes,Breakfast,2024-12-02 07:30,2024-12-02 08:00,30,4.2,Completed,8,4
+U004,27,San Francisco,Dinner,10,S005,Caesar Salad,Lunch,2024-12-03 13:00,2024-12-03 13:15,15,4.7,Completed,9,4
+U002,35,Los Angeles,Lunch,8,S006,Spaghetti,Dinner,2024-12-03 18:30,2024-12-03 19:00,30,4.3,Completed,14,4
+U005,38,Boston,Breakfast,14,S007,Grilled Chicken,Dinner,2024-12-04 18:00,2024-12-04 18:45,45,4.6,Completed,13.5,4
+U003,42,Chicago,Breakfast,15,S008,Veggie Burger,Lunch,2024-12-04 13:30,2024-12-04 13:50,20,4.4,Canceled,11,N/A
+U001,28,New York,Dinner,12,S009,Grilled Chicken,Dinner,2024-12-05 19:00,2024-12-05 19:40,40,4.9,Completed,12,5
+U002,35,Los Angeles,Lunch,8,S010,Oatmeal,Breakfast,2024-12-05 07:00,2024-12-05 07:10,10,4.1,Completed,7,4
+U003,42,Chicago,Breakfast,15,S011,Pancakes,Breakfast,2024-12-06 08:00,2024-12-06 08:30,30,4.6,Completed,8.5,4
+U004,27,San Francisco,Dinner,10,S012,Spaghetti,Dinner,2024-12-06 19:00,2024-12-06 19:40,40,4.7,Completed,12.5,4
+U005,30,Seattle,Lunch,9,S013,Caesar Salad,Lunch,2024-12-07 12:30,2024-12-07 13:00,30,4.4,Completed,9,4
+U006,25,Austin,Dinner,7,S014,Grilled Chicken,Dinner,2024-12-07 18:00,2024-12-07 18:45,45,4.8,Completed,13,5
+U007,38,Boston,Breakfast,14,S015,Spaghetti,Dinner,2024-12-08 19:30,2024-12-08 20:10,40,5,Completed,14,5
+U008,31,Miami,Dinner,5,S016,Veggie Burger,Lunch,2024-12-08 13:30,2024-12-08 13:50,20,4.3,Completed,11,4
